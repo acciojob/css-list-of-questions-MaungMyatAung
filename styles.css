@@ -13,7 +13,5 @@ body {
     padding: 15px;                  /* Add padding inside blockquote */
     max-width: 600px;               /* Set maximum width for blockquote */
     border-left: 8px solid green;   /* Add left border */
-    display: flex;                  /* Use flexbox for alignment */
-    align-items: center;            /* Center items vertically */
     box-sizing: border-box;         /* Include padding and border in the element's total width and height */
 }
